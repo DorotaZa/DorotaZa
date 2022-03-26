@@ -1,6 +1,4 @@
-# 👋 Hi, I’m @DorotaZa
+# 👋 Hi, I’m Dorota
 
-👀 I’m interested in ...
 🌱 I’m currently learning C++
-💞️ I’m looking to collaborate on ...
-📫 How to reach me <img src="{www.linkedin.com/in/dorota-żak}" /> 
+💞️ I’m looking to collaborate on Web development

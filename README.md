@@ -1,4 +1,4 @@
-### Hi there 👋, Dorota Zak
+### Hi there 👋
 #### Design and Development
 I am Dorota Żak, a software developer with a strong background in architectural design.
 My architectural background has provided me with a unique perspective as a software developer. I am passionate about combining my technical skills with my interest in graphic design.
